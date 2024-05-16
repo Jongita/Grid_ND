@@ -30,7 +30,6 @@
 
 .grey3 {
     background-color: #ECEFE7;
-   
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 2;
@@ -46,7 +45,6 @@
 
 .grey4 {
     background-color:#ECEFE7;
-    width: 50px;
     grid-column-start: 4;
     grid-row-start: 3;
     grid-row-end: 5;
